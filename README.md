@@ -16,3 +16,13 @@ What can we learn about different hosts and areas?
 What can we learn from predictions? (ex: locations, prices, reviews, etc)
 Which hosts are the busiest and why?
 Is there any noticeable difference of traffic among different areas and what could be the reason for it?
+
+# Team Members
+
+|Team Members Name  | Role |
+| -------------     | ------------- |
+| Vamsee Krishna Gangapatnam     | BigData Developer |
+| Harish Reddy Vavilala     | BigData Developer  |
+| Akshara Gurram    | BigData Developer  |
+| Hari Priya Jupally   | BigData Developer  |
+
