@@ -130,9 +130,9 @@ The language I will use to do mapreduce is python.
 I will be using pie chart to display my results.  
   
 - #### Vamsee Krishna Gangapatnam
-* Mapper input: One line of data that mapper will read:
+  * Mapper input: One line of data that mapper will read:
 
-   * 2539	Clean & quiet apt home by the park	2787	John	Brooklyn	Kensington	40.64749	-73.97237	Private room	149	1	9	10/19/2018	0.21	6	365
+    * 2539	Clean & quiet apt home by the park	2787	John	Brooklyn	Kensington	40.64749	-73.97237	Private room	149	1	9	10/19/2018	0.21	6	365
 
 * Mapper output/reducer input: example of an intermediate key, value pair output by your mapper:
 
