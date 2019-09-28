@@ -30,7 +30,9 @@ Our datasource gives a detailed information about guests and hosts who have used
 
 
 ## The Challenge
+
 What makes it a big data problem? 
+
 - Volume: There is 2MB of data in this dataset and 48,900 records. 11 years of data is available in this source.
 - Variety: This dataset is structured and it is in excel format.
 - Velocity: Data is updated whenever a new member is registered.  
@@ -38,15 +40,42 @@ What makes it a big data problem?
 - Value: This data file includes all needed information to find out more about hosts, geographical availability, necessary metrics to make predictions and draw conclusions.
 
 ## Big Data Questions
+
 - For each roomtype, find the total number of reviews. (Hari Priya Jupally)
 - For each roomtype, find the maximum number of reviews.(Harish Reddy Vavilala)
 - For each roomtype, find the minimum number of reviews.(Akshara Gurram)
 - For each roomtype, count the number of reviews.(Vamsee Krishna Gangapatnam)
+
 ## Big data solutions
- One solution per developer.
+
+One solution per developer.
 
 - #### Hari Priya Jupally
-  
+
+* Mapper input: One line of data that mapper will read:
+
+2539	Clean & quiet apt home by the park	2787	John	Brooklyn	Kensington	40.64749	-73.97237	Private room	149	1	9	10/19/2018	0.21	6	365
+
+* Mapper output/reducer input: example of an intermediate key, value pair output by your mapper:
+
+Private room	9
+Entire home/apt	45
+Private room	0
+Entire home/apt	270
+Entire home/apt	9
+
+* Reducer output:
+
+Total number of reviews = 1138005 summ of all the reviews
+
+* Language being used:
+
+The language I will use to do mapreduce is python.
+
+* What kind of chart will you use to display your results? 
+
+I will be using pie chart to display my results.  
+   
 - #### Harish Reddy Vavilala
 
 - #### Akshara Gurram
