@@ -134,25 +134,25 @@ I will be using pie chart to display my results.
 
     * 2539	Clean & quiet apt home by the park	2787	John	Brooklyn	Kensington	40.64749	-73.97237	Private room	149	1	9	10/19/2018	0.21	6	365
 
-* Mapper output/reducer input: example of an intermediate key, value pair output by your mapper:
+  * Mapper output/reducer input: example of an intermediate key, value pair output by your mapper:
 
-   * Private room	7
-   * Private room	2
-   * Private room	2
-   * Entire home/apt	5
-   * Private room	1
-   * Private room	30
+    * Private room	7
+    * Private room	2
+    * Private room	2
+    * Entire home/apt	5
+    * Private room	1
+    * Private room	30
 
 
-* Reducer output:
+  * Reducer output:
 
     * count of number of reviews = 48896 reviews
 
-* Language being used:
+  * Language being used:
 
     * The language I will use to do mapreduce is "python".
 
-* What kind of chart will you use to display your results? 
+  * What kind of chart will you use to display your results? 
 
     * I will be using pie chart to display my results.
 
