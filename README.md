@@ -28,6 +28,12 @@ Our datasource gives a detailed information about guests and hosts who have used
 
 - https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data
 
-## The Challenge
 
-What makes it a big data problem?
+## The Challenge
+What makes it a big data problem? 
+- Volume: There is 2MB of data in this dataset and 48,900 records. 11 years of data is available in this source.
+- Variety: This dataset is structured and it is in excel format.
+- Velocity: Data is updated whenever a new member is registered.  
+- Veracity: Data is very clear. There are no unnecessary columns.
+- Value: This data file includes all needed information to find out more about hosts, geographical availability, necessary metrics to make predictions and draw conclusions.
+
