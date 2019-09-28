@@ -52,29 +52,29 @@ One solution per developer.
 
 - #### Hari Priya Jupally
 
-* Mapper input: One line of data that mapper will read:
+  * Mapper input: One line of data that mapper will read:
 
-2539	Clean & quiet apt home by the park	2787	John	Brooklyn	Kensington	40.64749	-73.97237	Private room	149	1	9	10/19/2018	0.21	6	365
+    * 2539	Clean & quiet apt home by the park	2787	John	Brooklyn	Kensington	40.64749	-73.97237	Private room	149	1	9	10/19/2018	0.21	6	365
 
-* Mapper output/reducer input: example of an intermediate key, value pair output by your mapper:
+  * Mapper output/reducer input: example of an intermediate key, value pair output by your mapper:
 
-Private room	9
-Entire home/apt	45
-Private room	0
-Entire home/apt	270
-Entire home/apt	9
+    * Private room	9
+    * Entire home/apt	45
+    * Private room	0
+    * Entire home/apt	270
+    * Entire home/apt	9
 
-* Reducer output:
+  * Reducer output:
 
-Total number of reviews = 1138005 sum of all the reviews
+    * Total number of reviews = 1138005 sum of all the reviews
 
-* Language being used:
+  * Language being used:
 
-The language I will use to do mapreduce is python.
+     * The language I will use to do mapreduce is python.
 
-* What kind of chart will you use to display your results? 
+  * What kind of chart will you use to display your results? 
 
-I will be using pie chart to display my results.  
+    * I will be using pie chart to display my results.  
    
 - #### Harish Reddy Vavilala
 
