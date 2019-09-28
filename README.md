@@ -66,7 +66,7 @@ Entire home/apt	9
 
 * Reducer output:
 
-Total number of reviews = 1138005 summ of all the reviews
+Total number of reviews = 1138005 sum of all the reviews
 
 * Language being used:
 
