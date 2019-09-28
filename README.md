@@ -1,10 +1,10 @@
-# NewYork_Airbnb_Data Big Data Project
+# NewYork_Airbnb_Data
 
 We are working on this project for Bigdata course(44-517). Our project number is 07. 
 
 ## Team Members
 
-|Team Members Name  | Role |
+|Team Member's Name  | Role |
 | -------------     | ------------- |
 | Vamsee Krishna Gangapatnam     | BigData Developer |
 | Harish Reddy Vavilala     | BigData Developer  |
