@@ -1,21 +1,6 @@
 # NewYork_Airbnb_Data Big Data Project
 
-
-## Description :
-Since 2008, guests and hosts have used Airbnb to expand on traveling possibilities and present more unique, personalized way of experiencing the world. This dataset describes the listing activity and metrics in NYC, NY for 2019
-
-##  Content:
-This data file includes all needed information to find out more about hosts, geographical availability, necessary metrics to make predictions and draw conclusions.
-
-## Acknowledgements
-
-This public dataset is part of Airbnb, and the original source can be found on this website.
-
-## Inspiration
-What can we learn about different hosts and areas?
-What can we learn from predictions? (ex: locations, prices, reviews, etc)
-Which hosts are the busiest and why?
-Is there any noticeable difference of traffic among different areas and what could be the reason for it?
+We are working on this project for Bigdata course(44-517). Our project number is 07. 
 
 ## Team Members
 
@@ -26,9 +11,23 @@ Is there any noticeable difference of traffic among different areas and what cou
 | Akshara Gurram    | BigData Developer  |
 | Hari Priya Jupally   | BigData Developer  |
 
-## Data Source:
+## Links
 
-   https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data
+- https://github.com/vamsee47/NewYork_Airbnb_Data
+- https://github.com/vamsee47/NewYork_Airbnb_Data/issues
 
+## Introduction
 
+This project is used to implement mapreduce on our dataset for NewYork_Airbnb_Data.The reason we choose this data file is that this data file includes all needed information to find out more about hosts, geographical availability, necessary metrics to make predictions and draw conclusions.
 
+## Datasource
+
+Our datasource gives a detailed information about guests and hosts who have used Airbnb to expand on traveling possibilities and present more unique, personalized way of experiencing the world. This dataset describes the listing activity and metrics in NYC, NY for 2019.The datasource is structured in excel sheet. 
+
+## Link to datasource
+
+- https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data
+
+## The Challenge
+
+What makes it a big data problem?
