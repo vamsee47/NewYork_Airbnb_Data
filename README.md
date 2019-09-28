@@ -37,3 +37,19 @@ What makes it a big data problem?
 - Veracity: Data is very clear. There are no unnecessary columns.
 - Value: This data file includes all needed information to find out more about hosts, geographical availability, necessary metrics to make predictions and draw conclusions.
 
+## Big Data Questions
+- For each roomtype, find the total number of reviews. (Hari Priya Jupally)
+- For each roomtype, find the maximum number of reviews.(Harish Reddy Vavilala)
+- For each roomtype, find the minimum number of reviews.(Akshara Gurram)
+- For each roomtype, count the number of reviews.(Vamsee Krishna Gangapatnam)
+## Big data solutions
+ One solution per developer.
+
+- #### Hari Priya Jupally
+  
+- #### Harish Reddy Vavilala
+
+- #### Akshara Gurram
+  
+- #### Vamsee Krishna Gangapatnam
+
