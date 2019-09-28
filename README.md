@@ -146,13 +146,13 @@ I will be using pie chart to display my results.
 
 * Reducer output:
 
-count of number of reviews = 48896 reviews
+    * count of number of reviews = 48896 reviews
 
 * Language being used:
 
-The language I will use to do mapreduce is python.
+    * The language I will use to do mapreduce is "python".
 
 * What kind of chart will you use to display your results? 
 
-I will be using pie chart to display my results.
+    * I will be using pie chart to display my results.
 
