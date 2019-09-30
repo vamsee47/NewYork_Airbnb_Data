@@ -1,19 +1,20 @@
 # read the contents of AB_NYC_2019.csv for input
-s = open("../Data/AB_NYC_2019.csv","r")
+s = open("AB_NYC_2019.txt","r")
 # write output into mapperoutput.txt
 r = open("mapperOutput.txt", "w")
 # read each line in input file
 lines = s.readlines()
 lines.sort()
-# out of all the columns in datasource select only name, year and country columns as mapper output
+
+
+# out of all the columns in datasource select only room_type, and number_of_reviews columns as mapper output
 for line in lines:
-    data = line.strip().split('\t')
-    name = data[1]
-    year = data[9]
-    country = data[6]
-    # write the selected columns into mapperOutput.txt
-    r.write(name +'\t'+ year + '\t' + country + '\n')
-    print(name +'\t'+ year + '\t' + country + '\n')
-# close AB_NYC_2019.csv and mapperoutput files
+    data = line.strip().split(',')
+    if len(data) == 16:
+        id,name,host_id,host_name,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price,minimum_nights,number_of_reviews,last_review,reviews_per_month,calculated_host_listings_count,availability_365 = data
+
+        r.write('{0}\t{1}\n'.format(room_type,number_of_reviews))
+
+ 
 s.close()
 r.close()
