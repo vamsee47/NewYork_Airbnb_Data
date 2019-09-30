@@ -1,5 +1,5 @@
-# read the contents of athlete_events.txt for input
-s = open("../data/athlete_events.txt","r")
+# read the contents of AB_NYC_2019.csv for input
+s = open("../Data/AB_NYC_2019.csv","r")
 # write output into mapperoutput.txt
 r = open("mapperOutput.txt", "w")
 # read each line in input file
@@ -14,6 +14,6 @@ for line in lines:
     # write the selected columns into mapperOutput.txt
     r.write(name +'\t'+ year + '\t' + country + '\n')
     print(name +'\t'+ year + '\t' + country + '\n')
-# close athlete_events.txt and mapperoutput files
+# close AB_NYC_2019.csv and mapperoutput files
 s.close()
 r.close()
