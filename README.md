@@ -114,6 +114,12 @@ One solution per developer.
 
       * I will be using bar graph to display my results.  
 
+     ![](https://github.com/vamsee47/NewYork_Airbnb_Data/blob/master/images_folder/maxreviews_graph.png)
+
+     ![](https://github.com/vamsee47/NewYork_Airbnb_Data/blob/master/images_folder/maxmappercount.png)
+
+     ![](https://github.com/vamsee47/NewYork_Airbnb_Data/blob/master/images_folder/maxreducer.png)
+
 - #### Akshara Gurram
   * Mapper input: One line of data that mapper will read:
 
