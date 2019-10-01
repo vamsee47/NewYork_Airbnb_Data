@@ -1,0 +1,4 @@
+Shared room	1027
+Entire home/apt	21600
+room_type	1
+Private room	19079
