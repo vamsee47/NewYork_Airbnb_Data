@@ -26,6 +26,9 @@ for line in sys.stdin:
         total = 0
 
     oldKey = thisKey
+
+#adding the total number of reviews fpr each type to get the sum
+
     total += float(thisSale)
 
 if oldKey != None:
