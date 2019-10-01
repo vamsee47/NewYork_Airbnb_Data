@@ -26,6 +26,7 @@ for keyItem,value in thisDict.items():
     r.write(keyItem +'\t'+ str(value) + "\n" )
     print(keyItem +'\t'+ str(value) +"\n" )
     SU +=  value
+    
 
 
 print(SU)
