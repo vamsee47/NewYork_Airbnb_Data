@@ -67,9 +67,9 @@ One solution per developer.
   * Reducer output:
 
     * Total number of reviews for each category are
-        Entire home/apt 580000 
-        Private room 540000
-        Shared room 20000
+        Entire home/apt 577951.0 
+        Private room 535950.0
+        Shared room 19118.0
 
   * Language being used:
 
