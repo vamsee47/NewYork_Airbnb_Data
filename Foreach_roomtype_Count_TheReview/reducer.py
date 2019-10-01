@@ -10,11 +10,11 @@ for line in s:
     room_type = data[0]
     number_of_reviews = data[1]
     
-    # if country matches the previous country key in dictionary increment the key value with existing country value
+    # if roomtype  matches the previous roomtype key in dictionary increment the key value with existing country value
     if room_type in thisDict.keys():
         thisDict[room_type] = thisDict[room_type] +1
         
-    # if country doesnt match the previous country key in dictionary then consider key value as one
+    # if roomtype doesnt match the previous country key in dictionary then consider key value as one
     else:
         thisDict[room_type] = 1
        
