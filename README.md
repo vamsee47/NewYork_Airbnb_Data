@@ -150,6 +150,8 @@ One solution per developer.
 
     * I will be using pie chart to display my results.  
   
+   ![](https://github.com/vamsee47/NewYork_Airbnb_Data/blob/master/images_folder/min_reviews_grasph.png)
+
 - #### Vamsee Krishna Gangapatnam
   * Mapper input: One line of data that mapper will read:
 
