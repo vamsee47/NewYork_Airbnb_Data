@@ -152,6 +152,12 @@ One solution per developer.
   
    ![](https://github.com/vamsee47/NewYork_Airbnb_Data/blob/master/images_folder/min_reviews_grasph.png)
 
+   ![](https://github.com/vamsee47/NewYork_Airbnb_Data/blob/master/images_folder/Min_reviews_mapper.png)
+   
+   ![](https://github.com/vamsee47/NewYork_Airbnb_Data/blob/master/images_folder/Min_reviews_reducer.png)
+
+
+
 - #### Vamsee Krishna Gangapatnam
   * Mapper input: One line of data that mapper will read:
 
