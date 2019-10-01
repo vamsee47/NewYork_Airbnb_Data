@@ -157,7 +157,7 @@ One solution per developer.
 
   * Reducer output:
 
-    * count of number of reviews shared room  1027 , Entire home/apt	21600 Private room	19079
+    * count of number of reviews shared room  1160 , Entire home/apt	25409 Private room	22326
 
   * Language being used:
 
