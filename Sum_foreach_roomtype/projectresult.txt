@@ -1,0 +1,3 @@
+Entire home/apt 	577951.0
+Private room 	535950.0
+Shared room 	19118.0
