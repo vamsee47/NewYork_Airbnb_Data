@@ -66,7 +66,10 @@ One solution per developer.
 
   * Reducer output:
 
-    * Total number of reviews = 1138005 sum of all the reviews
+    * Total number of reviews for each category are
+        Entire home/apt 58000 
+        Private room 54000
+        Shared room 20000
 
   * Language being used:
 
@@ -93,7 +96,11 @@ One solution per developer.
 
   * Reducer output:
 
-      * Maximum number of reviews = 1 Max review
+      * Maximum value for reviews for each category is
+          
+        Entire home/apt 99 
+        Private room 99
+        Shared room 99
 
   * Language being used:
 
@@ -119,7 +126,11 @@ One solution per developer.
 
   * Reducer output:
 
-    * minimum number of reviews = 12721 sum of all the reviews
+      * Minimum value for reviews for each category is
+          
+        Entire home/apt 0 
+        Private room 0
+        Shared room 0
 
   * Language being used:
 
