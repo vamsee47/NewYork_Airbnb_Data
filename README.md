@@ -78,6 +78,10 @@ One solution per developer.
   * What kind of chart will you use to display your results? 
 
     * I will be using pie chart to display my results.  
+
+![](https://github.com/vamsee47/NewYork_Airbnb_Data/blob/master/images_folder/Sum_piechart.png)
+
+![](https://github.com/vamsee47/NewYork_Airbnb_Data/blob/master/images_folder/Sum_mapreduce.png)
    
 - #### Harish Reddy Vavilala
 
