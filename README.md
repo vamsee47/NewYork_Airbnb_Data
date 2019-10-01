@@ -168,5 +168,9 @@ One solution per developer.
     * I will be using pie chart to display my results.
     
  ![](https://github.com/vamsee47/NewYork_Airbnb_Data/blob/master/images_folder/Countof%20Reviews_Piechart.JPG)
+ 
+ ![](https://github.com/vamsee47/NewYork_Airbnb_Data/blob/master/images_folder/mapperoutputscreenshot_Count%20the%20reviews.JPG)
+ 
+ ![](https://github.com/vamsee47/NewYork_Airbnb_Data/blob/master/images_folder/reducer_countteh%20number%20of%20reviews.JPG)
    
 
