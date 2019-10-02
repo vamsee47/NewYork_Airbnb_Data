@@ -4,7 +4,7 @@ mapin = open("mapperoutput.txt","r")
 mapout = open("r.txt","w")
 thisKey = ""
 thisValue = 0
-fullList = []
+fullList = []a
 for line in mapin:
   #reading and sepeerating coloums
   rowList = []
