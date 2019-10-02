@@ -67,9 +67,9 @@ One solution per developer.
   * Reducer output:
 
     * Total number of reviews for each category are
-        Entire home/apt 58000 
-        Private room 54000
-        Shared room 20000
+        Entire home/apt 577951.0 
+        Private room 535950.0
+        Shared room 19118.0
 
   * Language being used:
 
@@ -150,6 +150,14 @@ One solution per developer.
 
     * I will be using pie chart to display my results.  
   
+   ![](https://github.com/vamsee47/NewYork_Airbnb_Data/blob/master/images_folder/min_reviews_grasph.png)
+
+   ![](https://github.com/vamsee47/NewYork_Airbnb_Data/blob/master/images_folder/Min_reviews_mapper.png)
+   
+   ![](https://github.com/vamsee47/NewYork_Airbnb_Data/blob/master/images_folder/Min_reviews_reducer.png)
+
+
+
 - #### Vamsee Krishna Gangapatnam
   * Mapper input: One line of data that mapper will read:
 
