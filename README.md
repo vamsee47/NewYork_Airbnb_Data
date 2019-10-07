@@ -175,7 +175,7 @@ One solution per developer.
 
   * Reducer output:
 
-    * For each room type, what is total number of properties that we have in the listing shared room  1160 , Entire home/apt	25409 Private room	22326
+    * For each room type,  total number of properties that we have in the listing shared room  1160 , Entire home/apt	25409 Private room	22326
 
   * Language being used:
 
