@@ -175,7 +175,7 @@ One solution per developer.
 
   * Reducer output:
 
-    * count of number of reviews shared room  1160 , Entire home/apt	25409 Private room	22326
+    * For each room type, what is total number of properties that we have in the listing shared room  1160 , Entire home/apt	25409 Private room	22326
 
   * Language being used:
 
@@ -185,7 +185,7 @@ One solution per developer.
 
     * I will be using pie chart to display my results.
     
- ![](https://github.com/vamsee47/NewYork_Airbnb_Data/blob/master/images_folder/Countof%20Reviews_Piechart.JPG)
+ ![](https://github.com/vamsee47/NewYork_Airbnb_Data/blob/master/images_folder/Numberof%20properties.JPG)
  
  ![](https://github.com/vamsee47/NewYork_Airbnb_Data/blob/master/images_folder/mapperoutputscreenshot_Count%20the%20reviews.JPG)
  
