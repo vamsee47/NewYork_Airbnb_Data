@@ -44,7 +44,7 @@ What makes it a big data problem?
 - For each roomtype, find the total number of reviews. (Hari Priya Jupally)
 - For each roomtype, find the maximum number of reviews.(Harish Reddy Vavilala)
 - For each roomtype, find the minimum number of reviews.(Akshara Gurram)
-- For each roomtype, count the number of reviews.(Vamsee Krishna Gangapatnam)
+- For each room type, find total number of properties.(Vamsee Krishna Gangapatnam)
 
 ## Big data solutions
 
