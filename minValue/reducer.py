@@ -38,7 +38,8 @@ for keyValue in finalObject:
   print(keyValue + " " + str(finalObject[keyValue]))
   #print to file
   mOut.write(keyValue + " " + str(finalObject[keyValue]))
-
+  inc+=1
+  print(inc)
 # close redinput and redouput file
 mIn.close()
 mOut.close()
