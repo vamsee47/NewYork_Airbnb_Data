@@ -44,7 +44,7 @@ What makes it a big data problem?
 - For each roomtype, find the total number of reviews. (Hari Priya Jupally)
 - For each roomtype, find the maximum number of reviews.(Harish Reddy Vavilala)
 - For each roomtype, find the minimum number of reviews.(Akshara Gurram)
-- For each roomtype, count the number of reviews.(Vamsee Krishna Gangapatnam)
+- For each room type, find total number of properties.(Vamsee Krishna Gangapatnam)
 
 ## Big data solutions
 
@@ -175,7 +175,7 @@ One solution per developer.
 
   * Reducer output:
 
-    * count of number of reviews shared room  1160 , Entire home/apt	25409 Private room	22326
+    * For each room type,  total number of properties that we have in the listing shared room  1160 , Entire home/apt	25409 Private room	22326
 
   * Language being used:
 
@@ -185,7 +185,7 @@ One solution per developer.
 
     * I will be using pie chart to display my results.
     
- ![](https://github.com/vamsee47/NewYork_Airbnb_Data/blob/master/images_folder/Countof%20Reviews_Piechart.JPG)
+ ![](https://github.com/vamsee47/NewYork_Airbnb_Data/blob/master/images_folder/Numberof%20properties.JPG)
  
  ![](https://github.com/vamsee47/NewYork_Airbnb_Data/blob/master/images_folder/mapperoutputscreenshot_Count%20the%20reviews.JPG)
  
