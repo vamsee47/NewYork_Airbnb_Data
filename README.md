@@ -148,7 +148,7 @@ One solution per developer.
 
   * What kind of chart will you use to display your results? 
 
-    * I will be using pie chart to display my results.  
+    * I will be using bar chart to display my results.  
   
    ![](https://github.com/vamsee47/NewYork_Airbnb_Data/blob/master/images_folder/min_reviews_grasph.png)
 
