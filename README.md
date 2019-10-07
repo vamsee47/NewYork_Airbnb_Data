@@ -102,9 +102,9 @@ One solution per developer.
 
       * Maximum value for reviews for each category is
           
-        Entire home/apt 99 
-        Private room 99
-        Shared room 99
+        Entire home/apt 488
+        Private room 629
+        Shared room 454
 
   * Language being used:
 
